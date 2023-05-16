@@ -1,0 +1,26 @@
+.rsc-container {
+  height: 400px;
+  width: 309px;
+}
+
+.rsc-content {
+  height: 75%;
+}
+
+.closeicon {
+  float: right;
+  
+  margin-top:4px;
+}
+
+.chatheader {
+  color: white;
+  padding: 10px;
+  background-color: #6E48AA;
+  size:20px;
+}
+
+.header1{
+
+  font-size: 19px;
+}

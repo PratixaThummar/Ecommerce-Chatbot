@@ -1,0 +1,22 @@
+.img{
+    position: fixed;
+    /* top: px; */
+    left: 0;
+    width: 100%;
+     position: relative;
+  text-align: center;
+  color: white;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+.img1 {
+    /* width: 10px; */
+    border-radius: 50px;
+    cursor: pointer;
+    float: left;
+    background-color: red;
+    padding: 8px;
+    font-size: 14px;
+  }
